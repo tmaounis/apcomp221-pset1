@@ -1,4 +1,3 @@
-user_id
 cc_by_ip
 countryLabel
 continent
